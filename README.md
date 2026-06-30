@@ -1,4 +1,5 @@
 SafeWalk – Personal Safety App
+
 Project Overview
 
 SafeWalk is a personal safety mobile application designed to provide security and emergency assistance to users while traveling alone. The application is intended for students, women, employees, and solo travelers who may need immediate help during emergencies. SafeWalk combines live location tracking, emergency communication, and journey monitoring into a single platform. Users can share their real-time location with trusted contacts, send SOS alerts, and track their journeys until they safely reach their destinations.
