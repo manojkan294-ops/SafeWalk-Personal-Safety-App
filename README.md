@@ -31,10 +31,12 @@ The main objective of SafeWalk is to improve personal security by enabling users
 - Google Stitch (UI Prototyping)
 
 ## Prototype Link
+
 🔗 https://stitch.withgoogle.com/projects/7290437073213485664
 
 ## Folder Structure
 
+```text
 SafeWalk-Personal-Safety-App/
 ├── assets/
 ├── lib/
@@ -51,5 +53,5 @@ SafeWalk-Personal-Safety-App/
 └── .gitignore
 ```
 
-Conclusion
+## Conclusion
 SafeWalk is a user-friendly personal safety application that combines live location tracking, emergency alerts, and journey monitoring into a single platform. The application is designed to provide users with confidence and security while traveling alone. By enabling quick communication with trusted contacts and offering real-time safety features, SafeWalk aims to improve personal safety and provide immediate support during emergencies.
